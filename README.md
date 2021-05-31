@@ -1,4 +1,3 @@
-# reading-notes
 # Growth Mindset
 This is a way of thinking that his owner believe that success is depend on **purposefulness** and **persistence**
 ##  how to keep yourself in a growth mindset
