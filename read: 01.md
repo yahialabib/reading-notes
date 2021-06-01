@@ -1,0 +1,3 @@
+# Learning Markdown
+Markdown is a way to style text on the web. You control the display of the document.GitHub.com uses its own version of the Markdown syntax that provides an additional set of useful features,so with github you can easily crate your website and update conatns and github page helps you share your work with others. Jekyll helps you build more complicated website. 
+It's very easy to make some words **bold** and other words *italic* with Markdown. You can even [link to Google!](http://google.com)
