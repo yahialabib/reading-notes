@@ -4,6 +4,6 @@ I beleive that programing is competitive and challenging environment where i can
 ## Table of Contents
  Number | Homework Name
 ----------|----------------
-Lab: 01 b|[Growth mindset](https://yahialabib.github.io/reading-notes/Growth.md)
-Read: 01| [Learning Markdown](https://yahialabib.github.io/reading-notes/read:01.md)
-Read: 02|[Revisions and the Cloud](https://yahialabib.github.io/reading-notes/read:02.md)
+Lab: 01 b|[Growth mindset](https://yahialabib.github.io/reading-notes/Growth)
+Read: 01| [Learning Markdown](https://yahialabib.github.io/reading-notes/read:01)
+Read: 02|[Revisions and the Cloud](https://yahialabib.github.io/reading-notes/read:02)
