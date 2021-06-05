@@ -7,4 +7,4 @@ I beleive that programing is competitive and challenging environment where i can
 | --- | --- |
 | Lab: 01b | [Growth mindset](https://yahialabib.github.io/reading-notes/Growth) |
 | Read: 01 | [Learning Markdown](https://yahialabib.github.io/reading-notes/read:01) |
-| Read: 02 | [Revisions and the Cloud](https://yahialabib.github.io/reading-notes/read:02) |
+| Read: 02 | [Revisions and the Cloud](https://yahialabib.github.io/reading-notes/Read:02) |
