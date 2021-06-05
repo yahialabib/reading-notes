@@ -10,19 +10,9 @@ It's very easy to make some words **bold** and other words *italic* with Markdow
 ## Headers
 - This sign '#' is an h1 tag
 - This sign '##' is an h2 tag
-## List
+## Unordered List
  
- 1. Unordered
 * using '-' sign or '*' sign brfore text
-
-
- 2. ordered 
-
-\1. Item 1
-1. Item 2
-1. Item 3
-   1. Item 3a
-   1. Item 3b
 
 ## Images
 ![GitHub Logo](/images/logo.png)
@@ -30,3 +20,6 @@ It's very easy to make some words **bold** and other words *italic* with Markdow
 ## Link
 [GitHub](http://github.com)
 * Format: \[name](url)
+
+# Github pages
+GitHub Pages is a static site hosting service that takes HTML, CSS, and JavaScript files straight from a repository on GitHub, optionally runs the files through a build process, and publishes a website. Also, You can host your site on GitHub's github.io domain or your own custom domain.
