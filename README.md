@@ -11,3 +11,8 @@ I beleive that programing is competitive and challenging environment where i can
 | Read: 01 | [Learning Markdown](https://yahialabib.github.io/reading-notes/read:01) |
 
 | Read: 02 | [Revisions and the Cloud](https://yahialabib.github.io/reading-notes/read:02) |
+
+| Task Number | Title |
+| --- | --- |
+| Lab: 01b | List all new or modified files |
+| Read: 01 | Show file differences that haven't been staged |
